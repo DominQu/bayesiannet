@@ -5,3 +5,6 @@
 - learn julia
 - implement
 - optimize
+
+## Dataset:
+https://www.kaggle.com/shivamkushwaha/bbc-full-text-document-classification
